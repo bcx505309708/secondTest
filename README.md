@@ -1,2 +1,2 @@
 # secondTest
-my second test
+my second test这是我的第二个练习
